@@ -1,9 +1,9 @@
-# d
+# Generate ReadME
   ![Github licence](http://img.shields.io/badge/license-OSU-red.svg)
 
   
   ## Description 
-  d
+  Using fileshare and inquirer for updating readme
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,19 +14,19 @@
   * [Questions](#questions)
   
   ## Installation 
-  d
+  npm i
 
   ## Usage 
-  d
+  auto generate readme
 
   ## License 
   This project is license under OSU
 
   ## Contributing 
-  d
+  post in github
 
   ## Tests Instructions
-  d
+  node index
 
   ## Questions
-  If you have any questions about this projects, please contact me directly at d. You can view more of my projects at https://github.com/d.
+  If you have any questions about this projects, please contact me directly at matt14w@gmail.com. You can view more of my projects at https://github.com/wilhelmm01.

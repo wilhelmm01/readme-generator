@@ -65,7 +65,7 @@ const questions = () => {
     {
         type: 'list',
         name: 'license',
-        message: 'What kind of license should your project have?',
+        message: 'Product License?',
         choices: ['OSU', 'ME'],
         default: ["OSU"],
         validate: nameInput => {
